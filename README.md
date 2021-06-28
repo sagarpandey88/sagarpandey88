@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on ...My Portfolio
+- 🌱 I’m currently learning ... React , Azure
+- 💬 Ask me about ... React , Azure , SharePoint
+
+[My Gists](https://gist.github.com/sagarpandey88)
+
