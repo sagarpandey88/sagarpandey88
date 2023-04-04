@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 |5| CSR Portal| CSR Portal for the needy. For announcing , managing CSR events across organisation. **In Progress** [Repository Link](https://github.com/sagarpandey88/intranet-services)|
 |6| Proton List | A simple list storing asp.net mvc application **Retired**   [Repository Link](https://github.com/sagarpandey88/protonlist)    |
 |7| Mocku | Mock generating app using react as FrontEnd and Multi option NOSQL storage like Azure storage , Mongo etc.  **In progress**   [Repository Link](https://github.com/sagarpandey88/mocku)    |
+|8| Timmy Bot | A Microsoft Teams Bot Assistant for routine activities.  [Repository Link](https://github.com/sagarpandey88/timmy-bot) |    
 
 
 
