@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 # Noteworthy Contributions
 |Sr No| Project | Remarks|
 |---|---|---|
-|1| Configurable Portfolio| Configurable Portfolio for developers based on reactjs (**without create-react-app**) and almost all the components are vanilla with lean dependencies. [Repository Link](https://github.com/sagarpandey88/sagarpandey88.github.io) |
-|2| Templates| Often used templates for handy references and use. Most noteworthy being reactjs typescript app template (**without create-react-app**) with lean dependencies. [Repository Link](https://github.com/sagarpandey88/templates) |
+|1| Configurable Portfolio| Configurable Portfolio for developers based on reactjs (**without create-react-app**) and almost all the components are vanilla with lean dependencies. [Repository Link](https://github.com/sagarpandey88/sagarpandey88.github.io)   #React |
+|2| Templates| Often used templates for handy references and use. Most noteworthy being reactjs typescript app template (**without create-react-app**) with lean dependencies. [Repository Link](https://github.com/sagarpandey88/templates)  #React |
 |4| Gists | Few quick reference code, snippets , scripts , Docs. [My Gists](https://gist.github.com/sagarpandey88) |
-|5| CSR Portal| CSR Portal for the needy. For announcing , managing CSR events across organisation. **In Progress** [Repository Link](https://github.com/sagarpandey88/intranet-services)|
-|6| Proton List | A simple list storing asp.net mvc application **Retired**   [Repository Link](https://github.com/sagarpandey88/protonlist)    |
-|7| Mocku | Mock generating app using react as FrontEnd and Multi option NOSQL storage like Azure storage , Mongo etc.  **In progress**   [Repository Link](https://github.com/sagarpandey88/mocku)    |
-|8| Timmy Bot | A Microsoft Teams Bot Assistant for routine activities.  [Repository Link](https://github.com/sagarpandey88/timmy-bot) |    
+|5| CSR Portal| CSR Portal for the needy. For announcing , managing CSR events across organisation. **In Progress** [Repository Link](https://github.com/sagarpandey88/intranet-services) #SharePoint #Javascript |
+|6| Proton List | A simple list storing asp.net mvc application **Retired**   [Repository Link](https://github.com/sagarpandey88/protonlist) #MVC #ASP.NET    |
+|7| Mocku | Mock generating app using react as FrontEnd and Multi option NOSQL storage like Azure storage , Mongo etc.  **In progress**   [Repository Link](https://github.com/sagarpandey88/mocku)  #ASPNETCORE   |
+|8| Timmy Bot | A Microsoft Teams Bot Assistant for routine activities.  [Repository Link](https://github.com/sagarpandey88/timmy-bot) #MSTeams #SharePoint #AI #NLP #AzureCognitiveService |    
 
 
 
